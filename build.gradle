@@ -27,6 +27,9 @@ dependencies {
     implementation "org.springframework:spring-core:6.0.6"
 }
 
+targetCompatibility = JavaVersion.VERSION_17
+sourceCompatibility = JavaVersion.VERSION_17
+
 jar{
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
     archivesBaseName = project.name

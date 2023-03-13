@@ -1,0 +1,13 @@
+Uuid: 3c5025b0e19d419a8f339ee0c30391dd
+ExtensionType: 1
+Name: Sharpener
+RepoName: sharpener
+ScreenVersion: 2.4
+SerialVersion: 39
+MinPlatformVersion: 5
+ProOnly: False
+Author: Soroush Dalili
+ShortDescription: Adds a number of UI and functional features to Burp Suite.
+EntryPoint: releases/BurpSuiteSharpener-3.3-SNAPSHOT.jar
+BuildCommand: ./gradlew jar
+SupportedProducts: Pro, Community
