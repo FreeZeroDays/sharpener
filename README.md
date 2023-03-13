@@ -1,5 +1,5 @@
 # Burp Suite Sharpener
-This extension should add a number of UI and functional features to Burp Suite to make working with it a bit easier. 
+This extension should add a number of UI and functional features to Burp Suite to make working with it a bit easier. The latest version only works with the Montoya API which should be available in Burp Suite 2023.1 or higher.
 
 <pre>
  ___  _                                      
@@ -7,7 +7,12 @@ This extension should add a number of UI and functional features to Burp Suite t
 \__ \| . |<_> || '_>| . \/ ._>| ' |/ ._>| '_>
 <___/|_|_|<___||_|  |  _/\___.|_|_|\___.|_|
                     |_|
+v3.6
 </pre>
+
+# Installation
+* Download the latest jar file built by GitHub from [/releases/latest](https://github.com/mdsecresearch/BurpSuiteSharpener/releases/latest), or by going through the [Workflows' Artifacts](https://github.com/mdsecresearch/BurpSuiteSharpener/actions).
+* Add it to Burp Suite using the Extender tab
 
 # Using the Legacy Extension
 The latest version of this extension is only compatible with Burp Suite version 2023.1 and above due to the full support of Montoya API.
@@ -49,10 +54,6 @@ Please feel free to submit your new feature requests using `FR: ` in its title i
 
 It would be great to also list any known available extensions which might have implemented suggested features. 
 Perhaps the best features can be imported from different open-source extensions so the overhead of adding different extensions can be reduced.
-
-# Installation
-* Download the latest jar file built by GitHub from [/releases/latest](https://github.com/mdsecresearch/BurpSuiteSharpener/releases/latest), or by going through the [Workflows' Artifacts](https://github.com/mdsecresearch/BurpSuiteSharpener/actions), or from the [releases](https://github.com/mdsecresearch/BurpSuiteSharpener/tree/main/releases) directory which has been compiled offline by the developers/maintainers.
-* Add it to Burp Suite using the Extender tab
   
 # Usage Tips
 * You can use the following key combination(s) in Repeater and Intruder sub-tab menu:
@@ -87,7 +88,7 @@ Perhaps the best features can be imported from different open-source extensions 
 * Alt + Any Mouse Click works on empty parts of the tabs which do not contain any text
 * Use the `Debug` option in `Global Settings` if you are reporting a bug or if you want to see what is happening
 * Check the [extension's GitHub repository](https://github.com/mdsecresearch/BurpSuiteSharpener) rather than BApp Store for the latest updates
-* A sample of icons and the latest releases should also be accessible in the `/release` directory
+* A sample of icons should also be accessible in the `/` directory
 
 ![images/img.png](images/img.png)
 
