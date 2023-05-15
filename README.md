@@ -1,4 +1,4 @@
-# Parizval's Fork
+# Parzival's Fork
 I haven't modified anything except for updating the icons located in `/src/main/resources/subtabicons` - the stock icons didn't quite hit the mark for me, so of course I wanted to add some Twitch emotes to celebrate wins or Repeater tabs that didn't quite lead to what I hoped for.
 
 # Burp Suite Sharpener
