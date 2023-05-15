@@ -1,3 +1,6 @@
+# Parizval's Fork
+I haven't modified anything except for updating the icons located in `/src/main/resources/subtabicons` - the stock icons didn't quite hit the mark for me, so of course I wanted to add some Twitch emotes to celebrate wins or Repeater tabs that didn't quite lead to what I hoped for.
+
 # Burp Suite Sharpener
 This extension should add a number of UI and functional features to Burp Suite to make working with it a bit easier. The latest version only works with the Montoya API which should be available in Burp Suite 2023.1 or higher.
 
